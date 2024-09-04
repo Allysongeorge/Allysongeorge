@@ -1,8 +1,13 @@
 . 👋 Hi, I’m @Allysongeorge
+
 . 📎 I’m interested in ...
+
 . 🤓 I’m currently learning python, 
+
 . 🗿 I’m looking to collaborate on ...
+
 . 🩻 How to reach me ...
+
 
 <h3 align="center">A passionate frontend developer from India</h3>
 
