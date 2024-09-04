@@ -1,8 +1,8 @@
-. 👋 Hi, I’m @Allysongeorge <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmcGtgLyLCe3ibDBVjuiceAIwL3PQdpJUA6A&s" width="60-px">
+. 👋 Hi, I’m @Allysongeorge <img src="https://i.gifer.com/origin/db/dbd2a4e8f3228a3d2d01e9b3ad180543_w200.gif" width="2-px">
 
 . 📎 I’m interested in ...
 
-. 🤓 I’m currently learning python, 
+. 🤓 I’m currently learning python, Javascript,  
 
 . 🗿 I’m looking to collaborate on ...
 
