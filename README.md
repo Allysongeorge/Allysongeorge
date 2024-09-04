@@ -1,4 +1,4 @@
-. 👋 Hi, I’m @Allysongeorge
+. 👋 Hi, I’m @Allysongeorge <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmcGtgLyLCe3ibDBVjuiceAIwL3PQdpJUA6A&s" width="6-px">
 
 . 📎 I’m interested in ...
 
