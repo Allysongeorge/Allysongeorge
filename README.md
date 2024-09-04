@@ -5,12 +5,12 @@
 
 . 🤓 I’m currently learning python, Javascript  
 
-. 🗿 I’m 
+. 🗿 I’m Computer Systems Analyst - SENAC PE
 
-. 🩻 How to reach me ...
+. 🩻 How to reach me besinhoallyson@gmail.com
 
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A student from Brazil</h3>
 
 
 <p align="left">
