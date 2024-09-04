@@ -13,7 +13,7 @@
 
 <h3 align="center">A student from Brazil</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: <a src="besinhoallyson@gmail.com" </a> email</h3>
 <p align="left">
 </p>
 
