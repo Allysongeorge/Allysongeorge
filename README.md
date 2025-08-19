@@ -1,8 +1,5 @@
 # ("Allyson George")
 <img src="https://i.gifer.com/origin/db/dbd2a4e8f3228a3d2d01e9b3ad180543_w200.gif" width="60px">
-. Hi, I’m @Allysongeorge 
-
-. 📎 I’m interested in  <img src="https://25.media.tumblr.com/022659e719b7af722c8fd9f0f6348547/tumblr_n11ui8BhNU1r8bj4ko1_500.gif" width="30px"> Marvel,<img src="https://media4.giphy.com/media/CWcebXJhflE64/200w.gif?cid=6c09b952jqqh2tpqzcf5i1s1fjwoxk4lrcj6b6r7nw2xyh2e&ep=v1_gifs_search&rid=200w.gif&ct=g" width="30px"> RPG ,<img src="https://24.media.tumblr.com/82de22713b2a1aabb887022dfe9f9c2f/tumblr_mh8yl4ojtP1rrsa2po1_500.gif" width="40px"> Cartoons, <img src="https://media1.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif?cid=6c09b952anp64irjw7zmbxcfhm3aspuzvb218ubool2jkn5y&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="30px"> Python
 
 . 🤓 I’m currently learning python, Javascript  
 
@@ -17,9 +14,31 @@
 <p align="left">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## 🛠 Tecnologias
 
+**Frontend**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7E01D?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+**Backend**  
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![JDBC](https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=coffeescript&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=postman&logoColor=white)
+
+**Ferramentas e Metodologias**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-009FDA?style=for-the-badge&logo=jira&logoColor=white)
+![UX/UI](https://img.shields.io/badge/UX/UI-FF4088?style=for-the-badge&logo=adobecreativecloud&logoColor=white)
+
+---
 
 ### 📈 Estatísticas
 
