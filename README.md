@@ -1,18 +1,12 @@
 # ("Allyson George")
 <img src="https://i.gifer.com/origin/db/dbd2a4e8f3228a3d2d01e9b3ad180543_w200.gif" width="60px">
 
-. 🤓 I’m currently learning python, Javascript  
+. 🤓 I’m currently learning python.
 
 . 🗿 I’m Computer Systems Analyst - SENAC PE
 
 . 🩻 How to reach me besinhoallyson@gmail.com
 
-
-<h3 align="center">A student from Brazil</h3>
-
-<h3 align="left">Connect with me: <a src="besinhoallyson@gmail.com" </a> email</h3>
-<p align="left">
-</p>
 
 ## 🛠 Tecnologias
 
