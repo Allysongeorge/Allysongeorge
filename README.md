@@ -41,13 +41,9 @@
 ---
 
 ### 📈 Estatísticas
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Allysongeorge&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Allysongeorge&layout=compact&theme=radical" height="180"/>
-  <img src="https://streak-stats.demolab.com?user=Allysongeorge&theme=tokyonight&date_format=j%20M%5B%20Y%5D" height="180"/>
-</p>
-
-
+![Thalys's GitHub stats](https://github-readme-stats.vercel.app/api?username=Allysongeorge&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Allysongeorge&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://streak-stats.demolab.com?user=Allysongeorge&theme=tokyonight&date_format=j%20M%5B%20Y%5D)
 ---
 <!---
 Allysongeorge/Allysongeorge is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
